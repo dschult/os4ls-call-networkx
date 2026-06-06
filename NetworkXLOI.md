@@ -157,12 +157,12 @@ Please check up to three tags describing the type of software and its target sci
 **Software type:**
 - [ ] Data formats and storage
 - [ ] Knowledge representation and ontologies
-- [ ] Scientific computing
+- [X] Scientific computing
 - [ ] Statistical modeling
 - [ ] Workflows and computational pipelines
 - [ ] Data visualization
-- [ ] Interoperability
-- [X] Software ecosystem infrastructure
+- [X] Interoperability
+- [ ] Software ecosystem infrastructure
 - [X] Hardware acceleration and scalability
 - [ ] Machine learning frameworks
 - [ ] Agentic frameworks
