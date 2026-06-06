@@ -1,7 +1,7 @@
 ### NetworkX LOI Submission:
 ---
 #### Title (54/60 chars)
-**NetworkX for Big Data, Agentic Access and Algorithms**
+NetworkX for Scalable, AI-native Discovery in the Life Sciences
 
 Summary: (3000 chars)
 ---
