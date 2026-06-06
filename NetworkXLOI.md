@@ -85,7 +85,7 @@ United States
 
 *60 characters maximum*
 
-NetworkX for Scalable, AI-native Discovery in the Life Sciences
+NetworkX: Toward Scaleable AI-native Network Biology Analysis
 
 ---
 
